@@ -5,7 +5,7 @@ Belief Propogation and Self-Adapting Dissimilarity Measure" by
 Klaus, Sormann, and Karner.
 with other adaptations included.
 
-Source Files: 1. smatch.m  (m file)
+Source Files: 1. stmatch.m  (m file)
               2. stereo.m  (function file)
 Input Files: Pair of Images: 
               1. imgL.png 
